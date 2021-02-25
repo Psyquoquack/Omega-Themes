@@ -1,3 +1,5 @@
+> THIS REPO IS DEPRECATED: EEVERYTHING RELATED TO THE THEME ENGINE IS NOW INCLUDED IN THE MAIN REPOSITORY (OMEGA-NUMWORKS/OMEGA).
+
 <p align="center"><img src="https://github.com/Omega-Numworks/Omega-Design/blob/master/Omega-Themes.png" /></p>
 
 <p align="center">
